@@ -5,3 +5,6 @@ def capital (word):
 def FirstCapital (words):
     """делает первые буквы заглавными"""
     return words.title()
+
+def Lox_Lox (word):
+    return word
